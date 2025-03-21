@@ -14,3 +14,9 @@ We need to start with a market study of cinema consumption in the Creuse region,
 Following this study, we need to carry out an in-depth analysis of our database to identify specific trends and characteristics. This analysis should include: identification of the most popular actors and the associated time periods, the evolution of the average length of films over the years, comparison between actors present in cinema and in series, the average age of actors, as well as the top-rated films and the characteristics they share.
 
 On the basis of the information gathered, we will be able to refine our programming by specializing, for example, in films from the 90s or in action and adventure genres, to better meet the expectations of the audience identified during the market study.
+
+After this analytical stage, we will use machine learning algorithms to recommend films based on films that have been enjoyed by the viewer.
+
+The customer also provides us with a complementary database from TMDB, containing data on the countries of the production companies, budget, revenue and also a path to the film posters. We are asked to retrieve the film images for display in your recommendation interface.
+
+The final objective is to have an application with KPIs on the one hand, and the recommendation system with a film name entry zone for the user on the other. This application will be made available to cinema customers to offer them an additional, online service, in addition to traditional cinema.
