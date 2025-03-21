@@ -20,3 +20,9 @@ After this analytical stage, we will use machine learning algorithms to recommen
 The customer also provides us with a complementary database from TMDB, containing data on the countries of the production companies, budget, revenue and also a path to the film posters. We are asked to retrieve the film images for display in your recommendation interface.
 
 The final objective is to have an application with KPIs on the one hand, and the recommendation system with a film name entry zone for the user on the other. This application will be made available to cinema customers to offer them an additional, online service, in addition to traditional cinema.
+
+# EXPECTED DELIVERABLE
+
+- A notebook containing the data exploration, cleaning and visualizations. We will explain our cleansing choices and exploration conclusions in a document of our choice.
+- A dashboard presenting the relevant KPIs.
+- A notebook for the recommendation system stage, with source code and our comments.
